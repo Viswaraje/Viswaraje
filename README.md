@@ -1,38 +1,4 @@
- <style>
-        body {
-            background-color: #000000; /* Black background */
-            color: #ff66b2; /* Pink text color */
-            font-family: Arial, sans-serif;
-        }
 
-        h1, h3 {
-            color: #ff66b2; /* Pink header text color */
-        }
-
-        img {
-            filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(300deg);
-            /* Invert image colors for better visibility on dark background */
-        }
-
-        a {
-            color: #ff66b2; /* Pink link color */
-        }
-
-        a:hover {
-            color: #ff3385; /* Lighter pink color on hover */
-        }
-
-        p {
-            color: #ffffff; /* White text color for paragraphs */
-        }
-
-        .github-profile-trophy img {
-            filter: invert(100%);
-        }
-
-        /* Add more custom styles as needed */
-
-    </style>
 
 <h1 align="center">Hi 👋, I'm Viswaraje</h1>
 <h3 align="center">A third year undergrad pursuing Computer Science and Engineering(IoT).I like to learn new things and strive to be creative in everything I do . I am very much interested in building things which will help solve real life problems. I am very much interested in Web Development,Machine Learning . I'm passionate about open source contributions as a means to both sharpen my skills and support fellow developers, showcasing my expertise while making a positive impact.</h3>
