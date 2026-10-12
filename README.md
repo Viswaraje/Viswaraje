@@ -1,12 +1,19 @@
-<!-- Save this as README.md in a repo named exactly: viswaraje/viswaraje (public) -->
+<!-- Save as README.md in a public repo named exactly: viswaraje/viswaraje -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Viswaraje&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Problem%20Solver%20%E2%80%A2%20Backend%20Builder%20%E2%80%A2%20AI%20Learner&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Viswaraje&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Quant%20%26%20AI%20Explorer&descAlignY=60&descSize=17" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Viswaraje;3rd+year+CSE+(IoT)+undergrad;I+solve+problems+for+fun+%E2%9A%A1;Backend+%7C+ML+%7C+Deep+Learning+%7C+AI;I+design+things+and+scroll+Pinterest+%F0%9F%93%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I'm+Viswaraje;Software+engineer+%26+problem+solver+%E2%9A%A1;Competitive+programmer+%F0%9F%A7%A9;Venturing+into+Quants%2C+ML%2C+DL+%26+AI;Building+distributed+systems;Intricate+design+%2B+fashion+%2B+Pinterest+%F0%9F%93%8C" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- 🌸 ANIME GIF: put your favourite cute anime gif at assets/anime.gif in this repo -->
+<img src="./assets/anime.gif" width="260" alt="cute anime" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=viswaraje&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="profile views" />
 
@@ -16,18 +23,16 @@
 
 ## 🧠 About Me
 
-```js
-const viswaraje = {
-  education: "B.Tech CSE (IoT), 3rd year",
-  loves:     ["Problem solving", "Competitive programming", "Backend engineering"],
-  learning:  ["Machine Learning", "Deep Learning", "AI"],
-  alsoInto:  ["UI/UX & design", "Scrolling Pinterest for inspiration 📌"],
-  openSource: "contributing to sharpen skills & help fellow devs",
-  goal:      "build things that solve real-life problems",
-};
+```python
+class Viswaraje:
+    role      = "Software Engineer"
+    obsessed  = ["Problem solving", "Competitive programming", "Backend"]
+    exploring = ["Quantitative finance", "Machine Learning", "Deep Learning", "AI", "Distributed systems"]
+    aesthetic = ["Intricate design", "Fashion", "Endless Pinterest scrolling 📌"]
+    mission   = "Build fast, correct systems that solve real problems"
 ```
 
-I like turning messy real-world problems into clean, working systems. Algorithms keep my brain sharp, backend is where I build, ML/DL/AI is where I'm digging deeper, and design (plus a lot of Pinterest boards) keeps what I build from looking boring.
+I'm a software engineer who loves breaking hard problems into clean solutions. Contests keep my algorithmic edge sharp, backend and distributed systems are where I build, and I'm now pushing into quant thinking, ML, deep learning and AI. Outside code, I live for intricate design and fashion, and my Pinterest boards are basically my moodboard.
 
 ---
 
@@ -43,35 +48,36 @@ I like turning messy real-world problems into clean, working systems. Algorithms
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-**Backend & Databases**
+**Backend & Distributed Systems**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 **Frontend**
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**ML / Data / AI**
+**Quant / ML / DL / AI**
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3F6E9B?style=for-the-badge" />
 
 **Design & Tools**
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
 
 </div>
@@ -128,20 +134,20 @@ I like turning messy real-world problems into clean, working systems. Algorithms
 | Project | What it does | Stack |
 |---|---|---|
 | **Your Project 1** | One-line description of the problem it solves | `Node.js` `MongoDB` |
-| **Your Project 2** | One-line description | `Python` `scikit-learn` |
+| **Your Project 2** | One-line description | `Python` `PyTorch` |
 | **Your Project 3** | One-line description | `Next.js` `Tailwind` |
 
-> Swap these for your best repos, or use pinned repos on your profile.
+> Swap these for your real projects.
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Going deeper into **machine learning & deep learning**
-- ⚙️ Building **backend projects** with real-world architecture
-- 🧩 Grinding **DSA & contests** on LeetCode / Codeforces / CodeChef
-- 🎨 Collecting **design inspiration** on Pinterest 📌
-- 🤝 Looking to **contribute to open source**
+- 🧩 Grinding contests and DSA on Codeforces / LeetCode / CodeChef
+- 📈 Exploring **quantitative finance** and systematic thinking
+- 🤖 Going deeper into **ML, deep learning & AI**
+- 🌐 Building **backend and distributed systems**
+- 🎨 Collecting design and fashion inspiration on Pinterest 📌
 
 ---
 
@@ -154,7 +160,6 @@ I like turning messy real-world problems into clean, working systems. Algorithms
 <a href="https://leetcode.com/viswaraje/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://codeforces.com/profile/viswaraje"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/vishwa666"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<!-- Add your Pinterest link: -->
 <!-- <a href="https://pinterest.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a> -->
 
 <br/><br/>
