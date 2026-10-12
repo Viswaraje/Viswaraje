@@ -1,67 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b1a,45:2b1b4a,100:7a2a6b&height=240&section=header&text=Viswaraje&fontSize=72&fontColor=ff7eb6&fontAlignY=36&animation=twinkling&desc=%E5%A4%A2%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Quant%20%26%20AI%20Explorer&descAlign=50&descAlignY=58&descSize=16&descColor=c9b8ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:8b0000&height=180&section=header&text=Viswaraje&fontSize=60&fontColor=f5f0e6&fontAlignY=45&desc=%E9%81%93%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=70&descSize=16&descColor=d7003a" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=FF7EB6&center=true&vCenter=true&width=780&height=45&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%8C%B8+I'm+Viswaraje;Software+engineer+%26+problem+solver;Competitive+programmer+%E2%9A%94%EF%B8%8F;Venturing+into+Quants%2C+ML%2C+DL+%26+AI;Building+distributed+systems;Intricate+design+%C2%B7+fashion+%C2%B7+Pinterest+%F0%9F%93%8C" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=D7003A&center=true&vCenter=true&width=700&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%8C%B8+I'm+Viswaraje;Competitive+programmer+%E2%9A%94%EF%B8%8F;Backend+%C2%B7+ML+%C2%B7+Distributed+systems;Quants+%C2%B7+AI+%C2%B7+Design+%C2%B7+Fashion" alt="typing" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- ANIME GIF: save your favourite cute anime gif as assets/anime.gif in this repo -->
-<img src="./assets/anime.gif" width="300" alt="anime" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=viswaraje&label=VISITORS&color=ff7eb6&labelColor=0d0b1a&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/viswaraje?label=FOLLOWERS&style=flat-square&labelColor=0d0b1a&color=a78bfa&logo=github" alt="followers" />
-<img src="https://img.shields.io/github/stars/viswaraje?affiliations=OWNER&label=STARS&style=flat-square&labelColor=0d0b1a&color=ff7eb6&logo=github" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=viswaraje&label=VISITORS&color=d7003a&labelColor=0b0b0b&style=flat-square" alt="views" />
 
 </div>
 
 <br/>
 
-## ✦ about me
+## 🌸 自己紹介 · about me
 
-```python
-class Viswaraje:
-    role      = "Software Engineer"
-    obsessed  = ["Problem solving", "Competitive programming", "Backend"]
-    exploring = ["Quantitative finance", "Machine Learning", "Deep Learning", "AI", "Distributed systems"]
-    aesthetic = ["Intricate design", "Fashion", "Anime", "Endless Pinterest scrolling 📌"]
-    mantra    = "Make it work, make it right, make it pretty."
-```
+I'm a software engineer who loves problem solving and competitive programming. I build backend and distributed systems, and I'm venturing into quants, machine learning, deep learning and AI. Outside code, I love intricate design, fashion, anime, and scrolling Pinterest.
 
-I break hard problems into clean solutions. Contests keep my algorithms sharp, backend and distributed systems are where I build, and I'm pushing deeper into quant thinking, ML, deep learning and AI. Outside code: intricate design, fashion, anime, and a Pinterest feed that never ends.
+> 努力 — effort &nbsp;·&nbsp; 継続 — consistency &nbsp;·&nbsp; 夢 — dreams
 
 <br/>
 
-## ✦ tech stack
+## ⛩️ 技術 · tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,express,graphql&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,kafka,docker,linux,git,github&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,express,mongodb,mysql,redis,kafka,docker,react,nextjs,tailwind,pytorch,tensorflow,sklearn,numpy,pandas,figma,git&theme=dark&perline=12" />
 
 </div>
 
 <br/>
 
-## ✦ competitive programming
+## ⚔️ 競技 · competitive programming
 
 <div align="center">
 
-<a href="https://leetcode.com/viswaraje/"><img src="https://img.shields.io/badge/LeetCode-viswaraje-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d0b1a" /></a>
-<a href="https://codeforces.com/profile/viswaraje"><img src="https://img.shields.io/badge/Codeforces-viswaraje-1F8ACB?style=flat-square&logo=codeforces&logoColor=1F8ACB&labelColor=0d0b1a" /></a>
-<a href="https://www.codechef.com/users/vishwa666"><img src="https://img.shields.io/badge/CodeChef-vishwa666-c9b8ff?style=flat-square&logo=codechef&logoColor=c9b8ff&labelColor=0d0b1a" /></a>
-<a href="https://www.hackerrank.com/profile/v_raje2004"><img src="https://img.shields.io/badge/HackerRank-v__raje2004-00EA64?style=flat-square&logo=hackerrank&logoColor=00EA64&labelColor=0d0b1a" /></a>
+<a href="https://leetcode.com/viswaraje/"><img src="https://img.shields.io/badge/LeetCode-viswaraje-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0b0b0b" /></a>
+<a href="https://codeforces.com/profile/viswaraje"><img src="https://img.shields.io/badge/Codeforces-viswaraje-1F8ACB?style=flat-square&logo=codeforces&logoColor=1F8ACB&labelColor=0b0b0b" /></a>
+<a href="https://www.codechef.com/users/vishwa666"><img src="https://img.shields.io/badge/CodeChef-vishwa666-f5f0e6?style=flat-square&logo=codechef&logoColor=f5f0e6&labelColor=0b0b0b" /></a>
+<a href="https://www.hackerrank.com/profile/v_raje2004"><img src="https://img.shields.io/badge/HackerRank-v__raje2004-00EA64?style=flat-square&logo=hackerrank&logoColor=00EA64&labelColor=0b0b0b" /></a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/viswaraje/">
-  <img src="https://leetcard.jacoblin.cool/viswaraje?theme=dark&font=Fira%20Code&border=0&radius=12&ext=heatmap" alt="LeetCode" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/viswaraje?theme=dark&font=Fira%20Code&border=0&radius=8&ext=heatmap" alt="LeetCode" width="49%" />
 </a>
 <a href="https://codeforces.com/profile/viswaraje">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=viswaraje&theme=dark" alt="Codeforces" width="49%" />
@@ -71,70 +54,34 @@ I break hard problems into clean solutions. Contests keep my algorithms sharp, b
 
 <br/>
 
-## ✦ github stats
+## 📊 統計 · github stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=viswaraje&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0d0b1a&title_color=ff7eb6&text_color=c9b8ff&icon_color=a78bfa&border_color=2a2347&border_radius=12&ring_color=ff7eb6" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswaraje&layout=compact&langs_count=8&bg_color=0d0b1a&title_color=ff7eb6&text_color=c9b8ff&border_color=2a2347&border_radius=12" alt="languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=viswaraje&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b0b0b&title_color=d7003a&text_color=f5f0e6&icon_color=d7003a&border_color=2a2a2a&border_radius=6&ring_color=d7003a" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswaraje&layout=compact&langs_count=8&bg_color=0b0b0b&title_color=d7003a&text_color=f5f0e6&border_color=2a2a2a&border_radius=6" alt="languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=viswaraje&background=0D0B1A&ring=FF7EB6&fire=FF7EB6&currStreakNum=C9B8FF&currStreakLabel=FF7EB6&sideNums=C9B8FF&sideLabels=A78BFA&dates=8B7FB8&stroke=2A2347&border=2A2347&border_radius=12" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=viswaraje&background=0B0B0B&ring=D7003A&fire=D7003A&currStreakNum=F5F0E6&currStreakLabel=D7003A&sideNums=F5F0E6&sideLabels=D7003A&dates=8A8A8A&stroke=2A2A2A&border=2A2A2A&border_radius=6" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viswaraje&bg_color=0d0b1a&color=ff7eb6&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Graph" alt="activity" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=viswaraje&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-
-<br/><br/>
-
-<!-- Snake: needs the workflow file below (run it once from the Actions tab) -->
-<img src="https://raw.githubusercontent.com/viswaraje/viswaraje/output/github-snake-dark.svg" alt="snake" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viswaraje&bg_color=0b0b0b&color=d7003a&line=d7003a&point=f5f0e6&area=true&area_color=d7003a&hide_border=true&custom_title=Contribution%20Graph" alt="activity" width="100%" />
 
 </div>
 
 <br/>
 
-## ✦ projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **AI Code Explainer** | Paste code, get an LLM explanation, complexity and suggestions | `Next.js` `TypeScript` `Tailwind` |
-| **Fraud Detection Backend** | Fintech backend evolving from monolith to microservices with ML fraud scoring | `Kafka` `Redis` `ML` |
-| **Smart Expense Tracker API** | Auth-secured expense tracking REST API | `Node` `Express` `MongoDB` `JWT` |
-| **CP Tracker** | Revision engine for concepts, problems and contests with spaced repetition | `Competitive Programming` |
-| **Wardrobe Manager** | Full-stack web app to manage your wardrobe | `Full-stack` |
-
-<br/>
-
-## ✦ currently
-
-- ⚔️ Grinding contests on Codeforces / LeetCode / CodeChef
-- 📈 Exploring quantitative finance
-- 🤖 Going deeper into ML, deep learning & AI
-- 🌐 Building backend and distributed systems
-- 🌸 Collecting design, fashion & anime inspo on Pinterest
-
-<br/>
-
-## ✦ connect
+## 📫 連絡 · connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/viswaraje"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0b1a" /></a>
-<a href="https://github.com/viswaraje"><img src="https://img.shields.io/badge/GitHub-a78bfa?style=flat-square&logo=github&logoColor=white&labelColor=0d0b1a" /></a>
-<a href="https://leetcode.com/viswaraje/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d0b1a" /></a>
-<a href="https://codeforces.com/profile/viswaraje"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d0b1a" /></a>
-<a href="https://www.codechef.com/users/vishwa666"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white&labelColor=0d0b1a" /></a>
+<a href="https://linkedin.com/in/viswaraje"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0b0b0b" /></a>
+<a href="https://github.com/viswaraje"><img src="https://img.shields.io/badge/GitHub-d7003a?style=flat-square&logo=github&logoColor=white&labelColor=0b0b0b" /></a>
 
 <br/><br/>
 
-<sub>努力 · 夢 · 継続 &nbsp;|&nbsp; effort · dreams · consistency</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a2a6b,55:2b1b4a,100:0d0b1a&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:0b0b0b&height=80&section=footer" width="100%" />
 
 </div>
