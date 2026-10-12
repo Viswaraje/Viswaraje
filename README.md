@@ -8,8 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=viswaraje&label=VISITORS&color=d7003a&labelColor=0b0b0b&style=flat-square" alt="views" />
-
+<img src="https://hits.sh/github.com/viswaraje/viswaraje.svg?style=flat-square&label=VISITORS&color=d7003a&labelColor=0b0b0b" alt="views" />
 </div>
 
 <br/>
