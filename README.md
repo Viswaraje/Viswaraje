@@ -8,8 +8,7 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/viswaraje/viswaraje.svg?style=flat-square&label=VISITORS&color=d7003a&labelColor=0b0b0b" alt="views" />
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=viswaraje.viswaraje&left_text=VISITORS&left_color=0b0b0b&right_color=d7003a" alt="views" /></div>
 
 <br/>
 
